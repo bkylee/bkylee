@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bkylee
 - 👀 I’m interested in Sports, Tech, Gaming, Music, Health, Fitness 
-- 🌱 I’m currently learning from the Odin Project, CS50, AWS
+- 🌱 I’m currently learning from the Odin Project, CS50, AWS SAA 
 - 📫 How to reach me: brian.ky.lee@outlook.com
 
 <!---
